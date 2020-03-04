@@ -1,0 +1,9 @@
+[submodule "Limfy-Hardware"]
+	path = Limfy-Hardware
+	url = https://github.com/TobyNartowski/Limfy-Hardware
+[submodule "Limfy-Server"]
+	path = Limfy-Server
+	url = https://github.com/TobyNartowski/Limfy-Server
+[submodule "Limfy-App"]
+	path = Limfy-App
+	url = https://github.com/TobyNartowski/Limfy-App
